@@ -1,7 +1,7 @@
 # Local Coda Pack Development with Docker Containers
 
-## Background
-
+<details>
+  <summary>Background</summary>
 For large coda packs, developing locally is more productive than using Coda Pack Studio. Straight out of Coda Docs, here are some benefits: 
 
 * You can use your own code editing tools, such as Visual Studio Code.
@@ -9,9 +9,11 @@ For large coda packs, developing locally is more productive than using Coda Pack
 * You can use popular JavaScript libraries1, such as those in NPM.
 
 However, the biggest benefit is the instant feedback loop for testing your code. 
+</details>
 
-## Why this template
-
+<details>
+  <summary>Why this template</summary>
+  
 Sadly, installing dependencies for Coda SDK on my local machine was very cumbersome and couldn't get it to fully work. If you're on Windows like me, then you'll even have tougher time.
 
 This template aims to remove all the headache by requiring you to only have the following two dependencies: 
@@ -20,6 +22,9 @@ This template aims to remove all the headache by requiring you to only have the 
 * VSCode
 
 VSCode allows you to develop directly inside a docker container. Therefore, this template contains docker configurations that has all the nessesary dependencies to develop Coda Packs locally. 
+</details>
+
+---
 
 ## Prerequisites
 
