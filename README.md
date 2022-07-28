@@ -24,6 +24,12 @@ This template aims to remove all the headache by requiring you to only have the 
 VSCode allows you to develop directly inside a docker container. Therefore, this template contains docker configurations that has all the nessesary dependencies to develop Coda Packs locally. 
 </details>
 
+<details>
+  <summary>Benefits of Developing in Docker Containers</summary>
+  
+TBD 
+</details>
+
 ---
 
 ## Prerequisites
