@@ -25,7 +25,7 @@ For large coda packs, developing locally is more productive than using Coda Pack
 * You can use popular JavaScript libraries1, such as those in NPM.
 * Instant feedback loop for testing your code. Just `npx coda execute ...` to test your pack blocks. 
 
-Unfortunately, setting up local development environment for Coda SDK is a not easy just having NodeJs and npm installed. but you also need to install `isolated-vm` which already has its [own requirements](https://github.com/laverdet/isolated-vm#requirements). Instructions also differ whether you are on Windows, MacOs, or Linux. 
+Unfortunately, setting up local development environment for Coda SDK is not as easy as just having NodeJs and npm installed. but you also need to install `isolated-vm` which already has its [own requirements](https://github.com/laverdet/isolated-vm#requirements). Instructions also differ whether you are on Windows, MacOs, or Linux. 
 
 Now you can get started with local development within 5 minutes regardless of your platform. All you need is to have Docker and VSCode installed. 
 
