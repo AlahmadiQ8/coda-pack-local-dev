@@ -1,8 +1,9 @@
-# Local Coda Pack Development with Docker Containers
+# Local Coda Pack Development with Docker Containers <!-- omit from toc -->
 
 **TLDR:** Install docker, install VSCode, install [Remote - Containers Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers), clone this template, open vscode command pallete and run `Reopen in Container`, open bash terminal and run `npx coda init`. 
 
-- [Local Coda Pack Development with Docker Containers](#local-coda-pack-development-with-docker-containers)
+---
+
 - [Background](#background)
 - [How it works](#how-it-works)
 - [Prerequisites](#prerequisites)
@@ -12,6 +13,8 @@
     - [2 - Open template directory in a VSCode workspace](#2---open-template-directory-in-a-vscode-workspace)
   - [Option 2: Start from scratch](#option-2-start-from-scratch)
   - [Initialize new coda pack project](#initialize-new-coda-pack-project)
+
+---
 
 # Background
 
